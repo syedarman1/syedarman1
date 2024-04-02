@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Zenhub a Chome Extension, MacroMania a calories Tracker tool and Twatter a better X<br>🌱 I’m currently learning C# and building JavaScript knowledge<br>💬 Ask me about Video Games<br>🤯 Did ya know Australia is wider than the moon
+🔭 I’m currently working on Zenhub a Chome Extension, MacroMania a calories Tracker tool and Twatter a better X<br>🌱 I’m currently learning C# and JavaScript<br>💬 Ask me about Video Games<br>🤯 Did ya know Australia is wider than the moon
 
 
 ## 🌐 Socials:
