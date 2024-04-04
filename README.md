@@ -12,6 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syedarman1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedarman1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote/Gif
+### ✍️ Dev Quote/Gif
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)![Githubreadme](https://github.com/syedarman1/syedarman1/assets/148717758/91f82eb9-950d-4a90-8f86-ddb704dc4048)
 
