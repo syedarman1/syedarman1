@@ -1,12 +1,46 @@
-# About Me:
-🔭 I’m currently working on SummarizeMe Version 1.1 my Chome Extension, Updating Lung AI With better Accuracy <br>🌱 I’m currently learning C#<br>💬 Ask me about Video Games<br>🤯 Did ya know Australia is wider than the moon
+### Hi There! My name is Syed.
+-----
+# :postbox: About Me
+My name is Syed and I am a Computer Science student!
+
+```java
+public class Syed
+{
+  private int age = 21;
+  public String[] projects = new String[] { "SummarizeMe", "Lung AI", "EZPASS", "ERBUD", "MACROMANIA" };
+  public String[] hobbies = new String[] { "Coding", "Gym", "Chess", "Cooking" };
+}
+```
+
+### :smile_cat: Other Accounts
+Connect with me professionally:
+- [@syedarman](https://www.linkedin.com/in/syedarman/) - Linkedin
+
+I discovered my passion for coding in high school, beginning with Java and Python. Over the past few years, I've expanded into building full-stack web applications and exploring machine learning projects. I've created projects like SummarizeMe, a Chrome extension that summarizes web content which reached over 500 user! and LungAI, an AI-driven web app that predicts lung cancer from CT scans. Recently, I've been diving into C# to broaden my development skills.
+
+-----
+
+# :round_pushpin: What Am I Doing?
+- :clipboard: Currently I am:
+  - Self-teaching AI
+  - Grinding LeetCode
+  - Working on personal coding projects and expanding my tech stack
+-----
+
+# Tech Stack
+[![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,tailwind,next,django,firebase&theme=dark)](https://skillicons.dev)
+
+[![Programming Languages](https://skillicons.dev/icons?i=python,java,cpp,kotlin&theme=dark)](https://skillicons.dev)
+
+[![Cloud & Tools](https://skillicons.dev/icons?i=aws,azure,gcp,heroku,netlify,firebase,docker,github,vscode,idea,postman,figma&theme=dark)](https://skillicons.dev)
+-----
+
+# :bar_chart: Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syedarman1)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedarman1&layout=compact&theme=dark&hide_border=true)
 
 
-## 🌐 Socials:
-[![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedarman) 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=syedarman1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedarman1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
