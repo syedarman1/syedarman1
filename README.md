@@ -36,9 +36,9 @@ I discovered my passion for coding in high school, beginning with Java and Pytho
 -----
 
 # :bar_chart: Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syedarman1)](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedarman1&layout=compact&theme=dark&hide_border=true)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=syedarman1&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedarman1&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
