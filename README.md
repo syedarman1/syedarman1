@@ -32,8 +32,9 @@ I discovered my passion for coding in high school, beginning with Java and Pytho
 
 [![Programming Languages](https://skillicons.dev/icons?i=python,java,cpp,kotlin&theme=dark)](https://skillicons.dev)
 
-[![Cloud & Tools](https://skillicons.dev/icons?i=aws,azure,gcp,heroku,netlify,firebase,docker,github,vscode,idea,postman,figma&theme=dark)](https://skillicons.dev)
------
+[![Development Tools](https://skillicons.dev/icons?i=heroku,netlify,firebase,docker,github,vscode,idea,postman,figma&theme=dark)](https://skillicons.dev)
+
+[![Cloud Platforms](https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark)](https://skillicons.dev)
 
 # :bar_chart: Stats
 
