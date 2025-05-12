@@ -6,7 +6,7 @@ My name is Syed and I am a Computer Science student!
 ```java
 public class Syed
 {
-  private int age = 21;
+  private int age = 22;
   public String[] projects = new String[] { "SummarizeMe", "Lung AI", "EZPASS", "ERBUD", "MACROMANIA" };
   public String[] hobbies = new String[] { "Coding", "Gym", "Chess", "Cooking" };
 }
