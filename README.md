@@ -16,15 +16,15 @@ public class Syed
 Connect with me professionally:
 - [@syedarman](https://www.linkedin.com/in/syedarman/) - Linkedin
 
-I discovered my passion for coding in high school, beginning with Java and Python. Over the past few years, I've expanded into building full-stack web applications and exploring machine learning projects. I've created projects like SummarizeMe, a Chrome extension that summarizes web content which reached over 500 user! and LungAI, an AI-driven web app that predicts lung cancer from CT scans. Recently, I've been diving into C# to broaden my gaem development skills.
+I discovered my passion for coding in high school, beginning with Java and Python. Over the past few years, I've expanded into building full-stack web applications and exploring machine learning projects. I've created projects like SummarizeMe, a Chrome extension that summarizes web content which reached over 500 user! and LungAI, an AI-driven web app that predicts lung cancer from CT scans. Recently, I've been diving into C# to broaden my game development skills.
 
 -----
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently I am:
   - Self-teaching AI
-  - Grinding LeetCode
-  - Working on personal coding projects and expanding my tech stack
+  - Grinding LeetCode 
+  - Working on personal coding projects
 -----
 
 # Tech Stack
