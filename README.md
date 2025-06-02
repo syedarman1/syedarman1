@@ -8,7 +8,7 @@ public class Syed
 {
   private int age = 22;
   public String[] projects = new String[] { "ScreenMe", "Lung AI", "ER-BUD" };
-  public String[] hobbies = new String[] { "Coding", "Gym", "Chess", "Cooking" };
+  public String[] hobbies = new String[] { "Gym", "Coding", "Chess", "Cooking" };
 }
 ```
 
