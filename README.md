@@ -1,4 +1,4 @@
-### Hi There! My name is Syed.
+### Hey There!
 -----
 # :postbox: About Me
 My name is Syed and I am a Computer Science student!
