@@ -22,7 +22,7 @@ I discovered my passion for coding in high school, beginning with Java and Pytho
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently I am:
-  - Self-teaching AI
+  - Learning AI
   - shipping
 -----
 
