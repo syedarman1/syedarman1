@@ -1,29 +1,28 @@
-### Hey There!
+### Hey there! 👋
 -----
 # :postbox: About Me
-My name is Syed and I am a Computer Science student!
+I'm Syed, a Computer Science student who builds full-stack web apps and AI-powered tools.
 
 ```java
 public class Syed
 {
   private int age = 22;
-  public String[] projects = new String[] { "ScreenMe", "Lung AI", "ER-BUD", "NASA APP + API" };
-  public String[] hobbies = new String[] { "Gym", "Coding", "Chess", "Cooking" }; 
+  public String[] projects = new String[] { "MockBase MCP", "ShopTalk" };
+  public String[] hobbies  = new String[] { "Gym", "Coding", "Chess", "Cooking" };
 }
 ```
 
-### :smile_cat: Other Accounts
-Connect with me:
-- [@syedarman](https://www.linkedin.com/in/syedarman/) - Linkedin
+### :smile_cat: Connect With Me
+- [@syedarman](https://www.linkedin.com/in/syedarman/) — LinkedIn
 
-I discovered my passion for coding in high school, beginning with Java and Python. Over the past few years, I've expanded into building full-stack web applications and exploring machine learning projects. I've created projects like SummarizeMe, a Chrome extension that summarizes web content which reached over 500 user! and LungAI, an AI-driven web app that predicts lung cancer from CT scans. Recently, I've been diving into C# to broaden my game development skills.
+Lately I've been building **MockBase MCP** and **ShopTalk**, and diving into agentic AI — figuring out how to get LLMs to actually do useful work end to end.
 
 -----
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently I am:
-  - Learning AI
-  - shipping
+  - Learning Agentic AI 🤖
+  - Building MockBase MCP & ShopTalk 🚀
 -----
 
 # Tech Stack
@@ -34,9 +33,3 @@ I discovered my passion for coding in high school, beginning with Java and Pytho
 [![Development Tools](https://skillicons.dev/icons?i=heroku,netlify,firebase,docker,github,vscode,idea,postman,figma&theme=dark)](https://skillicons.dev)
 
 [![Cloud Platforms](https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark)](https://skillicons.dev)
-
-
-
-
-
-
