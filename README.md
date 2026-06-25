@@ -1,4 +1,7 @@
-### Hey there! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&color=58A6FF&lines=Hey%2C+I'm+Syed+%F0%9F%91%8B;Full-stack+Developer;Agentic+AI+Tinkerer;Always+building+something" alt="typing banner" />
+</p>
+
 -----
 # :postbox: About Me
 I'm Syed, a Computer Science student who builds full-stack web apps and AI-powered tools.
