@@ -15,7 +15,7 @@ public class Syed
 ### :smile_cat: Connect With Me
 - [@syedarman](https://www.linkedin.com/in/syedarman/) — LinkedIn
 
-Lately I've been building **MockBase MCP** and **ShopTalk**, and diving into agentic AI — figuring out how to get LLMs to actually do useful work end to end.
+Lately I've been building **MCP** and **ShopTalk**, and diving into agentic AI — figuring out how to get LLMs to actually do useful work end to end.
 
 -----
 
