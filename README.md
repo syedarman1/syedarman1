@@ -2,8 +2,8 @@
 
 Computer Science student building full-stack web apps and AI tools.
 
-- 🔭 Currently building **MockBase MCP** and **ShopTalk**
-- 🌱 Learning agentic AI
+- 🔭 Always building something new
+- 🌱 Exploring agentic AI
 - 🔗 [LinkedIn](https://www.linkedin.com/in/syedarman/)
 
 ### Tech
