@@ -25,7 +25,7 @@ Lately I've been building **MCP** and **ShopTalk**, and diving into agentic AI �
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently I am:
   - Learning Agentic AI 🤖
-  - Building MockBase MCP & ShopTalk 🚀
+  - Building 🚀
 -----
 
 # Tech Stack
