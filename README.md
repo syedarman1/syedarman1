@@ -1,8 +1,8 @@
-# Hi, I'm Syed 👋
+# Hi, I'm Syed 
 
 Computer Science student building full-stack web apps and AI tools.
 
-- 🔭 Always building something new
+- 🔭 building...
 - 🌱 Exploring agentic AI
 - 🔗 [LinkedIn](https://www.linkedin.com/in/syedarman/)
 
